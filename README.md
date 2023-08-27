@@ -27,7 +27,7 @@ To deploy the AvinashTocken contract on the Ethereum blockchain, follow these st
 2. Select the `UniqueToken` contract from the Solidity Compiler tab.
 3. In the input fields, provide the following values:
    - `_tokenName`: AvinashTocken
-   - `_tokenSymbol`: INR
+   - `_tokenSymbol`: USD
    - `_initialTokenSupply`: 0
 4. Click the Deploy button.
 5. Copy the deployed contract address for future interactions.
