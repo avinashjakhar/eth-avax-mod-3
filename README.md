@@ -64,4 +64,4 @@ function generateToken(address _receiver, uint256 _amount) external
 - [ERC-20 Token Standard](https://eips.ethereum.org/EIPS/eip-20)
 
 ## Owner Name
-**Avniash - 22NCT10100**
+**Avniash - 22BCT10100**
